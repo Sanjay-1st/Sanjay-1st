@@ -1,7 +1,7 @@
-[![MasterHead]https://uploads.toptal.io/blog/image/92137/toptal-blog-image-1455717817638-f1c9424752a145ebf97219ec7a2d6cca.gif)]
+[![MasterHead](https://cdn.acodez.in/wp-content/uploads/2018/03/13-programming-languages-expected-to-change-the-future-of-coding-banner.png)]()
 <h1 align="center">Hi 👋, I'm Sanjay Chauhan</h1>
 <h3 align="center">A passionate Frontend React Js developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/a7/6b/64/a76b6404c6296b32ed0a85dcf334d188.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjay-1st&label=Profile%20views&color=0e75b6&style=flat" alt="sanjay-1st" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sanjay19401@gmaillcom**
 
-- ⚡ Fun fact **I think I am Fuuny**
+- ⚡ Fun fact **I think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
